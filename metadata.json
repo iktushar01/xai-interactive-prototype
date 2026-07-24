@@ -1,0 +1,6 @@
+{
+  "name": "XAI — Intelligence Workspace",
+  "description": "Enterprise AI Workspace that transforms raw data into structured intelligence and automated decisions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
